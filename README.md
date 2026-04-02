@@ -20,9 +20,11 @@ Each turn processes player actions, calculates damage, and updates game state un
 - Designing a larger multi-function Python program
 
 ## How to Run
-1. Open the file in Python
-2. Run the program
-3. Follow the on-screen prompts to play
+
+1. Open the file in a Python environment  
+2. Run the program:
+   ```bash
+   python3 pokemon_battle_simulator.py
 
 ## Notes
 This project was originally developed as part of coursework and later cleaned and structured for portfolio use.
